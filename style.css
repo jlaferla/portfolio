@@ -1,0 +1,41 @@
+
+.style {
+    background-color: #2C2C2C;
+    font-family: Merriweather;
+    font-size: 1rem;
+}
+
+.header-font {
+    font-family: Lato;
+    color: #F1C40F;
+}
+
+/* For Charcoal Background */
+#font-colour-one {
+color: #ECF0F1  ;
+}
+
+#font-colour-two {
+    color: #F1C40F;
+}
+
+.family-img {
+    height: 150px;
+    border-radius: 50%;
+  }
+
+.p-font {
+    font-family: Merriweather;
+}
+
+.profile-photo {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
